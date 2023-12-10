@@ -1,0 +1,7 @@
+{
+    "sketch": "proyecto_guante_midi.ino",
+    "output": "build",
+    "configuration": "cpu=atmega2560",
+    "board": "arduino:avr:mega",
+    "port": "COM3"
+}

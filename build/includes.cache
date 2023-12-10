@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\anton\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.4\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\anton\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.4\\variants\\mega"
+  },
+  {
+    "Sourcefile": "C:\\Users\\anton\\Desktop\\proyecto_guante_midi\\build\\sketch\\proyecto_guante_midi.ino.cpp",
+    "Include": "HCSR04.h",
+    "Includepath": "C:\\Users\\anton\\Documents\\Arduino\\libraries\\HCSR04\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\anton\\Desktop\\proyecto_guante_midi\\build\\sketch\\proyecto_guante_midi.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\anton\\Documents\\Arduino\\libraries\\HCSR04\\src\\HCSR04.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
